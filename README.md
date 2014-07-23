@@ -1,9 +1,9 @@
-OOP-HTML5-Canvas
+Object-Oriented Programming for HTML5 Canvas
 ================
 
 
 This site has been setup for you to use at http://canvas.civinia.com.  Its something I built to try and get hired
-at Google. Sadly it dit not work out ;-), but wherever there's failure theres another opportunity for success.
+at Google. Sadly it did not work out ;-), but wherever there's failure theres another opportunity for success.
 
 The purpose of the page is to show how certain data structures work ranging from various sorting algorithms, to linked lists,
 Djikstra's algorithm and so on.  I slowed the Javascript engine using TweenMax.js so you can see how it operates.  I did not 
