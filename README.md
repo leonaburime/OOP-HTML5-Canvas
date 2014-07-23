@@ -28,7 +28,7 @@ Search - This section shows how various searching algorithms work.
 Node Connections -  This section simply gives you a dynamic table of which node is connected to which node by which line
 
 Data Structures - This section shows how to build a linked list, a binary search tree, and an avl tree.
-        TO RUN - You have to follow the gray prompt on how to add nodes when you want to run the algorithm.
+        TO RUN - You have to follow the grey prompt on how to add nodes when you want to run the algorithm.
         Simply clicking 'Add Random Node' will not work because some of the the data structures here are self sorting
         meaning they update on every insertion.
   
