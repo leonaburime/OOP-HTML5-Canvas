@@ -1,7 +1,6 @@
 OOP-HTML5-Canvas
 ================
 
-All Files for OOP HTML5 Canvas Project
 
 This site has been setup for you to use at http://canvas.civinia.com.  Its something I built to try and get hired
 at Google. Sadly it dit not work out ;-), but wherever there's failure theres another opportunity for success.
